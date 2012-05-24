@@ -1,4 +1,4 @@
 2313usb
 =======
 
-2313 usb
+just going thru the awesome usb attiny tutorial

@@ -1,12 +1,6 @@
 # Compiled Object files
-*.slo
-*.lo
+*.elf
+*.hex
 *.o
-
-# Compiled Dynamic libraries
-*.so
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+*.out
+usbdrv/*
